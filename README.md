@@ -26,9 +26,16 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+First, we can view our list and add and remove from it.
+<img src='https://imgur.com/a/Yra4wNu' title='simpleTodo_addRemove' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+Then, we can close our app and reopen it to find our list still intact.
+<img src='https://imgur.com/a/SraFSZF' title='simpleTodo_persistence' width='' alt='Video Walkthrough' />
+
+Finally, we can edit a list entry by simply touching one. 
+<img src='https://imgur.com/a/ZwNRaRj' title='simpleTodo_edit' width='' alt='Video Walkthrough' />
+
+GIFs created with Xbox Game Bar and [ezgif.com](https://ezgif.com/video-to-gif)
 
 ## Notes
 
