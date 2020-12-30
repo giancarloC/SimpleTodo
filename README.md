@@ -27,13 +27,16 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 First, we can view our list and add and remove from it.
-<img src='https://i.imgur.com/hgMC3wA.gif' title='simpleTodo_addRemove' width='' alt='Video Walkthrough' />
+
+<img src='https://i.imgur.com/hgMC3wA.gif' title='simpleTodo_addRemove' width='120px' height=auto alt='Video Walkthrough' />
 
 Then, we can close our app and reopen it to find our list still intact.
-<img src='https://i.imgur.com/N3uul5b.mp4' title='simpleTodo_persistence' width='' alt='Video Walkthrough' />
+
+<img src='https://i.imgur.com/N3uul5b.mp4' title='simpleTodo_persistence' width='120px' height=auto alt='Video Walkthrough' />
 
 Finally, we can edit a list entry by simply touching one. 
-<img src='https://i.imgur.com/bP728TF.gif' title='simpleTodo_edit' width='' alt='Video Walkthrough' />
+
+<img src='https://i.imgur.com/bP728TF.gif' title='simpleTodo_edit' width='120px' height=auto alt='Video Walkthrough' />
 
 GIFs created with Xbox Game Bar and [ezgif.com](https://ezgif.com/video-to-gif)
 
